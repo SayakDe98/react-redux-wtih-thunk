@@ -1,0 +1,11 @@
+[{
+    "id": 1,
+    "name": "Sayak",
+    "role": "Software Developer",
+    "premium": true
+},{
+  "id": 2,
+  "name": "John",
+  "role": "Software Tester",
+  "premium": false
+}]

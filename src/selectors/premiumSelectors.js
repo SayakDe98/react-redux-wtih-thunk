@@ -1,0 +1,1 @@
+export const getPremiumUser = state => state.premium;
